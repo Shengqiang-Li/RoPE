@@ -1,7 +1,3 @@
-
-
-"""Multi-Head Attention layer definition."""
-
 import math
 import torch
 from torch import nn
